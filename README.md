@@ -4,11 +4,12 @@ This is a simple User Management web application built using React and TailwindC
 ## Setup Instructions
 ### Prerequisites
 
-Node.js: Install Node.js
+   Node.js : Install Node.js
 
-npm: Comes with Node.js.
+   npm : Comes with Node.js.
 
 ### Setup Steps
+
 1. Clone the repository:
    
    git clone https://github.com/your-username/user-management-app.git
@@ -22,20 +23,7 @@ npm: Comes with Node.js.
 5. Run the app:
    
    npm start
-
-### Project Structure:
-src/
-├── components/
-│   ├── UserList.js         # Display users
-│   ├── UserForm.js         # Add/update user form
-│   └── ErrorBoundary.js    # Error handling component
-├── services/
-│   └── api.js             # API functions for users
-├── styles/
-│   └── App.css            # TailwindCSS setup
-├── App.js                 # Main app component
-└── index.js               # Entry point
-
+   
 ## Challenges Faced
 1. Handling state updates carefully for adding, editing, and deleting users.
 2. Ensuring proper error handling for API failures and input validation.
