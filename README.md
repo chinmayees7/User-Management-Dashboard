@@ -9,17 +9,17 @@ npm: Comes with Node.js.
 ### Setup Steps
 1. Clone the repository:
    
-git clone https://github.com/your-username/user-management-app.git
+   git clone https://github.com/your-username/user-management-app.git
 
-cd user-management-app
+   cd user-management-app
 
 3. Install dependencies:
    
-npm install
+   npm install
 
 5. Run the app:
    
-npm start
+   npm start
 
 ### Project Structure:
 src/
@@ -34,12 +34,12 @@ src/
 ├── App.js                 # Main app component
 └── index.js               # Entry point
 
-### Challenges Faced
+## Challenges Faced
 1. Handling state updates carefully for adding, editing, and deleting users.
 2. Ensuring proper error handling for API failures and input validation.
 3. Styling the UI with TailwindCSS while keeping it responsive.
 
-### Potential Improvements
+## Potential Improvements
 1. Replace mock API with a real backend.
 2. Enhance form validation and error handling.
 3. Add search and pagination features.
