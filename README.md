@@ -3,7 +3,9 @@
 This is a simple User Management web application built using React and TailwindCSS. It allows users to view, add, update, and delete user information. The application interacts with an API to fetch and manage the user data. 
 ## Setup Instructions
 ### Prerequisites
+
 Node.js: Install Node.js
+
 npm: Comes with Node.js.
 
 ### Setup Steps
