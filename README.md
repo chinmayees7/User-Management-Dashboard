@@ -1,3 +1,7 @@
+#User Management App
+
+This is a simple User Management web application built using React and TailwindCSS. It allows users to view, add, update, and delete user information. The application interacts with an API to fetch and manage the user data. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
