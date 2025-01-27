@@ -8,13 +8,17 @@ npm: Comes with Node.js.
 
 ### Setup Steps
 1. Clone the repository:
+   
 git clone https://github.com/your-username/user-management-app.git
+
 cd user-management-app
 
-2. Install dependencies:
+3. Install dependencies:
+   
 npm install
 
-3. Run the app:
+5. Run the app:
+   
 npm start
 
 ### Project Structure:
